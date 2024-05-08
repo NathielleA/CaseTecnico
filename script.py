@@ -35,8 +35,6 @@ if (uploadArquivo != None):
     col2.metric("Notas Autorizadas", autorizados)
     col3.metric("Notas Canceladas", cancelados)
 
-    #print(cancelados, autorizados)
-
     #Dicionário que armazena as notas que foram canceladas e os respectivos motivos
     notasCanceladas = {
         "Nota": [],
@@ -93,3 +91,5 @@ if (uploadArquivo != None):
 
 
     col5.plotly_chart(graficoPizza)
+
+    tabelaG_semVazios
