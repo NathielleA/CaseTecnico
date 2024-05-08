@@ -1,0 +1,7 @@
+﻿Código;Motivo de cancelamento;Descrição
+1;Emissão para Transação Não Realizada;Nota emitida sem venda
+2;Erro na Aplicação de Impostos;Imposto acima ou abaixo do esperado
+3;Erro nos Dados da Nota Fiscal;-
+4;Divergência na Descrição dos Produtos ou Serviços;-
+5;Falta de Documentação Fiscal;Algum documento necessário não foi enviado
+6;Cancelamento Sem Motivo Justificado;-
